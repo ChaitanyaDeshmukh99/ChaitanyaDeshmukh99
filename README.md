@@ -50,16 +50,6 @@ PyTorch, Scikit-learn, Hugging Face, LangChain, FastAPI, Docker
 
 ---
 
-## What You’ll Find Here
-
-This GitHub contains:
-
-- AI and Machine Learning projects
-- LLM-based experiments and prototypes
-- Computer Vision implementations
-
----
-
 ## Current Focus
 
 - Improving RAG architectures and retrieval strategies
